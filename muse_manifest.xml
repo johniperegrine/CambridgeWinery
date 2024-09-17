@@ -1,0 +1,50 @@
+<manifest alg="2" build="569" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1421201881267">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_a-master.css" crc="4171581033" ref="wine-club:contact:our-wines:the-winery:index:events"/>
+    <file name="wine-club.css" crc="3961713341" ref="wine-club"/>
+    <file name="contact.css" crc="3765186572" ref="contact"/>
+    <file name="our-wines.css" crc="4200695885" ref="our-wines"/>
+    <file name="the-winery.css" crc="243754496" ref="the-winery"/>
+    <file name="index.css" crc="144121838" ref="index"/>
+    <file name="events.css" crc="4029535412" ref="events"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="museutils.js" crc="4050293121" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="pie.js" crc="3827607177" ref="index:events"/>
+    <file name="webpro.js" crc="140723489" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="musewpslideshow.js" crc="4170221289" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="jquery.museoverlay.js" crc="439400757" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="touchswipe.js" crc="321465556" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="jquery.musemenu.js" crc="4027237583" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted svg 860x100.svg" crc="3835329339" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="pasted svg 860x100_poster_.png" crc="336020918" ref="index:events"/>
+    <file name="vineyards_rows_grapes-crop-u417.jpg" crc="4280272573" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="cw_navigation.png" crc="140522290" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="cw_logo_nav.png" crc="4251436943" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="our_story_button.png" crc="28769385" ref="index"/>
+    <file name="tasting_room_button.png" crc="3807031033" ref="index"/>
+    <file name="event_button.png" crc="3892578616" ref="index"/>
+    <file name="cw_logo_white.png" crc="145921136" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="cwfs.png" crc="157489817" ref="wine-club"/>
+    <file name="cws.png" crc="4141639522" ref="wine-club"/>
+    <file name="upcoming_events.png" crc="3839451038" ref="events"/>
+    <file name="cambridgewinery-28-edit.jpg" crc="335786847" ref="events"/>
+    <file name="cambridgewinery-54-edit.jpg" crc="289144643" ref="events"/>
+    <file name="cambridgewinery-75-crop-u1156.jpg" crc="3797105613" ref="events"/>
+    <file name="vineyards_cambridge.png" crc="3760885240" ref="the-winery"/>
+    <file name="cw_paso_promo.png" crc="3927676044" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+    <file name="cw_holiday_wines_promo.png" crc="4282217721" ref="index:wine-club:events:contact:the-winery:our-wines"/>
+  </folder>
+  <file name="index.html" crc="177869903" mt="1421200463335" redirect="true"/>
+  <file name="wine-club.html" crc="4272723672" mt="1418864885517" redirect="true"/>
+  <file name="events.html" crc="255401748" mt="1421201864471" redirect="true"/>
+  <file name="contact.html" crc="4029400051" mt="1418864885524" redirect="true"/>
+  <file name="the-winery.html" crc="177283338" mt="1418864885525" redirect="true"/>
+  <file name="our-wines.html" crc="4249015573" mt="1418864885526" redirect="true"/>
+</manifest>

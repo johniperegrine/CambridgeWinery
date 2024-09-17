@@ -1,0 +1,258 @@
+#u646
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u773,#u661,#u806
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u819-3
+{
+	background-color: transparent;
+	line-height: 21px;
+	color: #FFFFFF;
+	text-align: left;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u672
+{
+	position: absolute;
+	border-color: #C4C4C4;
+	background-color: #7F7F7F;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	border-radius: 8px;
+}
+
+#u672:hover
+{
+	background-color: #7F7F7F;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+}
+
+#u811
+{
+	position: absolute;
+	border-color: #C4C4C4;
+	background-color: #7F7F7F;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	-khtml-border-radius: 8px;
+	border-radius: 8px;
+}
+
+#u811:hover
+{
+	background-color: #7F7F7F;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+}
+
+#u672.PamphletThumbSelected,#u811.PamphletThumbSelected
+{
+	background-color: #DEBC81;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u75,#u506
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#menuu330
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u417,#u789,#u812,#u338,#u341
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u344-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u341:hover #u344-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u345,#u348
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u351-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u341.MuseMenuActive #u344-4 p,#u348:hover #u351-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u469,#u470
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u471-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u348.MuseMenuActive #u351-4 p,#u470:hover #u471-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u352,#u353
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u354-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u470.MuseMenuActive #u471-4 p,#u353:hover #u354-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u359,#u362
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u363-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	color: #000000;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u353.MuseMenuActive #u354-4 p,#u362:hover #u363-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u362.MuseMenuActive #u363-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton,.MenuItem /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u453
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #DEBC81;
+	position: relative;
+}
+
+#u961,#pamphletu645,#u670,#u950
+{
+	position: relative;
+}
+
+#u436
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u446-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 10px;
+	font-size: 8px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
